@@ -1,7 +1,11 @@
 # Chemical Chaos
 The lab management game which will have you rushing around trying to control all of your products. Good luck trying to beat your own high scores for this addictive colour matching nightmare!
 
-Download, play and review on [itch.io](https://itch.io/jam/brackeys-6/rate/1176615)! (This repo only contains the source code)
+Note that this repo only contains some assets code showing how the game's structure works for those who are interested.
+
+Download, play, and review on [itch.io](https://itch.io/jam/brackeys-6/rate/1176615)! 
+
+If you would like any more assets, feel free to contact me.
 
 ## Results from Brackeys Game Jam 2021.2
 <table>
